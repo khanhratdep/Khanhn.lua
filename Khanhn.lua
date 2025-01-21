@@ -146,4 +146,4 @@ local function startScript()
 end
 
 -- Bắt đầu chạy script
-startScript()loadstring(game:HttpGet("https://raw.githubusercontent.com/khanhratdep/Khanh/refs/heads/main/Khanhj", true))()
+startScript()loadstring(game:HttpGet("https://raw.githubusercontent.com/khanhratdep/Khanhn.lua/refs/heads/main/Khanhn.lua", true))()
